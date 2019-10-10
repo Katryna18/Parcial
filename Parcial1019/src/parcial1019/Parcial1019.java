@@ -1,21 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package parcial1019;
 
-/**
- *
- * @author USUARIO
- */
 public class Parcial1019 {
 
-    /**
-     * @param args the command line arguments
-     */
+    
+    //Declaro variables
+    int id = 0;
+    String fecha = "";
+    String nombre= "";
+    
+    
+    
+    
+   
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
